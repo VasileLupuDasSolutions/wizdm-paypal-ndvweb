@@ -20,7 +20,7 @@ import { AppComponent } from './app.component';
     MatDividerModule,
 
     PayPalModule.init({
-      clientId: 'sb', // Using sandbox for testing purposes only
+      clientId: 'AWSk0m3BlaYcWEa1c5OCAU4RwnbE1f3R_rxw6bNXXwQfzISTcM1BOhZNElotvguMwZEYHq8HY4Sm41s8', // Using sandbox for testing purposes only
       currency: 'EUR',
       commit: true,
       //vault: true,
